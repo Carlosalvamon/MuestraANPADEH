@@ -13,7 +13,10 @@ window.PLAN_DATA = {
       "Medio",
       "Bajo"
     ],
-    "note": "El catálogo de programas incluye opciones optativas además de las 56 asignaturas de la trayectoria curricular."
+    "note": "El catálogo de programas incluye opciones optativas además de las 56 asignaturas de la trayectoria curricular.",
+    "driveArchive": "https://drive.google.com/drive/folders/13HIOoBe55Y85W8UoglSY9LOAk5mdQr5c?usp=sharing",
+    "archiveFiles": 129,
+    "archiveNote": "Se muestran enlaces a los archivos originales de Drive. Los nombres y títulos se conservan tal como aparecen en la carpeta. Los niveles Alto/Medio/Bajo se infieren de las etiquetas originales Sobresaliente/Bueno, Satisfactorio/Regular y Áreas de oportunidad/Malo; los archivos sin etiqueta quedan en Otros."
   },
   "stages": [
     {
@@ -59,7 +62,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "inicial"
     },
@@ -77,9 +81,49 @@ window.PLAN_DATA = {
         "5. Explicará los componentes del hecho arquitectónico en el contexto social y cultural elegido que contribuya a la construcción de su pensamiento histórico crítico."
       ],
       "projects": {
-        "alto": [],
-        "medio": [],
-        "bajo": []
+        "alto": [
+          {
+            "title": "Trabajo Final (Sobresaliente).pdf",
+            "url": "https://drive.google.com/file/d/1SP1pa0nCunwzIvri-oRaVPA199EME_jJ/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Arqueología del Hábitat I / Trabajo Final (Sobresaliente)"
+          },
+          {
+            "title": "Ficha Técnica_ Trabajo Final - Sobresaliente_.pdf",
+            "url": "https://drive.google.com/file/d/1ZKH-CBW0leR-WiBj3VlVNioh8drHtdJY/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Arqueología del Hábitat I / Trabajo Final (Sobresaliente)"
+          }
+        ],
+        "medio": [
+          {
+            "title": "Trabajo Final (Satisfactorio).pdf",
+            "url": "https://drive.google.com/file/d/1F8v3-nRzT9jkok3xzsloiSuG-sMtu8H9/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Arqueología del Hábitat I / Trabajo Final (Satisfactorio)"
+          },
+          {
+            "title": "Ficha Técnica_Trabajo Final - Satisfactorio.pdf",
+            "url": "https://drive.google.com/file/d/1bThtiYo5vMQDwck19LkqFOxSwf-mCJtm/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Arqueología del Hábitat I / Trabajo Final (Satisfactorio)"
+          }
+        ],
+        "bajo": [
+          {
+            "title": "Trabajo Final (Áreas de Oportunidad).pdf",
+            "url": "https://drive.google.com/file/d/1mMyrSU7s_ILNPopHnCIVUEJsaguKFji5/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Arqueología del Hábitat I / Trabajo Final (Áreas de Oportunidad)"
+          },
+          {
+            "title": "Ficha Técnica_Trabajo Final -Áreas de Oportunidad.pdf",
+            "url": "https://drive.google.com/file/d/1MioDhtvF_gseTbfm6nz6pUWTvnz22-B_/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Arqueología del Hábitat I / Trabajo Final (Áreas de Oportunidad)"
+          }
+        ],
+        "otros": []
       },
       "stageId": "inicial"
     },
@@ -99,7 +143,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "inicial"
     },
@@ -123,9 +168,17 @@ window.PLAN_DATA = {
         "1. Describirá los proyectos de manera asertiva para comunicar efectivamente las argumentaciones, ideas y propuestas."
       ],
       "projects": {
-        "alto": [],
+        "alto": [
+          {
+            "title": "Sobresaliente - Entrega Taller Integral de Proyectos I.pdf",
+            "url": "https://drive.google.com/file/d/1-ZyDwL5suQBLfCLtXQMd7Zs23ssrCRR5/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Taller Integral de Proyectos I"
+          }
+        ],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "inicial"
     },
@@ -147,7 +200,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "inicial"
     },
@@ -165,7 +219,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "inicial"
     },
@@ -185,7 +240,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "inicial"
     },
@@ -199,7 +255,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "inicial"
     },
@@ -217,9 +274,49 @@ window.PLAN_DATA = {
         "5. Explicará los componentes del hecho arquitectónico en el contexto social y cultural elegido que contribuya a la construcción de su pensamiento histórico crítico."
       ],
       "projects": {
-        "alto": [],
-        "medio": [],
-        "bajo": []
+        "alto": [
+          {
+            "title": "Ficha Técnica_Trabajo Final - Sobresaliente.pdf",
+            "url": "https://drive.google.com/file/d/1LkB0djeaZgAESaxq5nX_UuZXOa03JmCh/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Arqueología del Hábitat II / Trabajo Final (Sobresaliente)"
+          },
+          {
+            "title": "Trabajo Final (Sobresaliente).pdf",
+            "url": "https://drive.google.com/file/d/11z69fJDAbr4UYRcd6TeHYspaoBNVxdEN/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Arqueología del Hábitat II / Trabajo Final (Sobresaliente)"
+          }
+        ],
+        "medio": [
+          {
+            "title": "Trabajo Final (Satisfactorio).pdf",
+            "url": "https://drive.google.com/file/d/1ly2CtEdAJi1OKS3my-a2ZHlYXZBeT74t/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Arqueología del Hábitat II / Trabajo Final (Satisfactorio)"
+          },
+          {
+            "title": "Ficha Técnica_Trabajo Final - Satisfactorio.pdf",
+            "url": "https://drive.google.com/file/d/157j9fGc_S1jrRTXSNTDb3QX1Vqvbqkqh/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Arqueología del Hábitat II / Trabajo Final (Satisfactorio)"
+          }
+        ],
+        "bajo": [
+          {
+            "title": "Ficha Técnica_Trabajo Final - Áreas de Oportunidad.pdf",
+            "url": "https://drive.google.com/file/d/1-ZO2mpZEKyL5HXSBINrPsAP_q0sttLmy/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Arqueología del Hábitat II / Trabajo Final (Áreas de Oportunidad)"
+          },
+          {
+            "title": "Trabajo Final (Áreas de oportunidad).pdf",
+            "url": "https://drive.google.com/file/d/1iBUDegdiNFt4djvdN3dsC5mIwnujKEdO/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Arqueología del Hábitat II / Trabajo Final (Áreas de Oportunidad)"
+          }
+        ],
+        "otros": []
       },
       "stageId": "inicial"
     },
@@ -239,7 +336,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "inicial"
     },
@@ -251,9 +349,49 @@ window.PLAN_DATA = {
       "objectiveGeneral": "Aplicará el proceso del diseño en diferentes escalas de acuerdo con sus elementos, necesidades y características analizadas en Taller Integral de diseño I, y recuperando el estudio socioeconómico y cultural de las mismas, en una propuesta concreta de intervención.",
       "objectiveSpecific": [],
       "projects": {
-        "alto": [],
-        "medio": [],
-        "bajo": []
+        "alto": [
+          {
+            "title": "Trabajo Final - Sobresaliente.pdf",
+            "url": "https://drive.google.com/file/d/1Z8O-6t28qS3P4V2xgUp6mZb5teS7b3Sp/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Taller Integral de Proyectos II / Trabajo Final (Sobresaliente)"
+          },
+          {
+            "title": "Ficha Técnica_Trabajo Final - Sobresaliente.pdf",
+            "url": "https://drive.google.com/file/d/1W8GYrPeG_hev4W_Xkp5puFZb3gXG9fEK/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Taller Integral de Proyectos II / Trabajo Final (Sobresaliente)"
+          }
+        ],
+        "medio": [
+          {
+            "title": "Trabajo final - Satisfactorio.pdf",
+            "url": "https://drive.google.com/file/d/1B6BoOXAYxs8XmqB8OBSEcFJRGUbzNkSv/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Taller Integral de Proyectos II / Trabajo Final (Satisfactorio)"
+          },
+          {
+            "title": "Ficha Técnica_Trabajo Final - Satisfactorio.pdf",
+            "url": "https://drive.google.com/file/d/1hp2aRqxZS2kfB7V2KZIV-3Zer2H-M6q0/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Taller Integral de Proyectos II / Trabajo Final (Satisfactorio)"
+          }
+        ],
+        "bajo": [
+          {
+            "title": "Trabajo Final - Áreas de Oportunidad.pdf",
+            "url": "https://drive.google.com/file/d/13qErlaE_OGtmUTG2O0C6ovHyCe-WbYtb/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Taller Integral de Proyectos II / Trabajo Final (Áreas de Oportunidad)"
+          },
+          {
+            "title": "Ficha Técnica_Trabajo Final - Áreas de Oportunidad.pdf",
+            "url": "https://drive.google.com/file/d/1G_9sTBCQXitBnjZvY8E-bN2GnEtslZpA/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Taller Integral de Proyectos II / Trabajo Final (Áreas de Oportunidad)"
+          }
+        ],
+        "otros": []
       },
       "stageId": "inicial"
     },
@@ -275,7 +413,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "inicial"
     },
@@ -291,9 +430,29 @@ window.PLAN_DATA = {
         "3. Reconocerá la importancia de los procesos y ciclos vitales para su consideración en el diseño e implementación de ecotecnias49"
       ],
       "projects": {
-        "alto": [],
+        "alto": [
+          {
+            "title": "BUENO 9.5 segundo examen parcial.pdf",
+            "url": "https://drive.google.com/file/d/1lvuDAc2Pf9h6OmUOkObPHWbu0TRcWU1Z/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Sistemas Ambientales ll"
+          },
+          {
+            "title": "BUENO 8 segundo examen parcial.pdf",
+            "url": "https://drive.google.com/file/d/11UPOA9VYJ68DbBjFMmMuk2oN22W3np9V/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Sistemas Ambientales ll"
+          },
+          {
+            "title": "BUENO 10 segundo examen parcial.pdf",
+            "url": "https://drive.google.com/file/d/1qlIeY_j7uEdaTopljlhWl364q-mbF2MX/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Sistemas Ambientales ll"
+          }
+        ],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "inicial"
     },
@@ -308,9 +467,49 @@ window.PLAN_DATA = {
         "2. Comprenderá el carácter multi e interdisciplinario del estudio de los fenómenos urbanos.56"
       ],
       "projects": {
-        "alto": [],
-        "medio": [],
-        "bajo": []
+        "alto": [
+          {
+            "title": "Trabajo Sobresaliente_Filosofía del Urbanismo y la ciudad.pdf",
+            "url": "https://drive.google.com/file/d/17I924e792M60Ydqzk8LsSAtwIcTZEKdT/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Filosofía del Urbanismo y la ciudad / Trabajo Filosofía del Urbanismo y la ciudad (Sobresaliente)"
+          },
+          {
+            "title": "Ficha Técnica_Trabajo Sobresaliente.pdf",
+            "url": "https://drive.google.com/file/d/1mu8OgoB1WPnmRZ6LeXCRITAR3MPzpI22/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Filosofía del Urbanismo y la ciudad / Trabajo Filosofía del Urbanismo y la ciudad (Sobresaliente)"
+          }
+        ],
+        "medio": [
+          {
+            "title": "Trabajo Satisfactorio_Filosofía del Urbanismo y la ciudad.pdf",
+            "url": "https://drive.google.com/file/d/1Hdk42ROkxwYdYh6AH0Ab6NKd9l8_f54q/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Filosofía del Urbanismo y la ciudad / Trabajo Filosofía del Urbanismo y la ciudad (Satisfactorio)"
+          },
+          {
+            "title": "Ficha Técnica_Trabajo Satisfactorio.pdf",
+            "url": "https://drive.google.com/file/d/1UfQvWZaBD3u2ECeWmo9cCD4-KD9ED-au/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Filosofía del Urbanismo y la ciudad / Trabajo Filosofía del Urbanismo y la ciudad (Satisfactorio)"
+          }
+        ],
+        "bajo": [
+          {
+            "title": "Trabajo Áreas de Oportunidad_Filosofía del Urbanismo y la ciudad.pdf",
+            "url": "https://drive.google.com/file/d/1Md0bwhDJxezuOKIy3SF-0TKCaVm2lqaM/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Filosofía del Urbanismo y la ciudad / Trabajo Filosofía del Urbanismo y la ciudad (Áreas de Oportunidad)"
+          },
+          {
+            "title": "Ficha Técnica_Trabajo Áreas de Oportunidad.pdf",
+            "url": "https://drive.google.com/file/d/1JrBpJUkgNoemiKU8RMf5Se6YoDnstGow/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Filosofía del Urbanismo y la ciudad / Trabajo Filosofía del Urbanismo y la ciudad (Áreas de Oportunidad)"
+          }
+        ],
+        "otros": []
       },
       "stageId": "basica"
     },
@@ -329,7 +528,28 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [
+          {
+            "title": "Trabajo final HyTDU_ColoniaBenitezJorgeEduardo.pdf",
+            "url": "https://drive.google.com/file/d/13SHqVxwqnC0qBvCubkRDKDr9KbklAsl2/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Historia y Teoría del Diseño Urbano"
+          },
+          {
+            "title": "Trabajo Final HyTDU LeonardoSebastian PerezZamarron.pdf",
+            "url": "https://drive.google.com/file/d/1WfSu1_pls8uZjwEOrEtXwHB9GlNcBeF2/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Historia y Teoría del Diseño Urbano"
+          }
+        ],
+        "otros": [
+          {
+            "title": "Rúbrica Historia y teoría del diseño urbano.pdf",
+            "url": "https://drive.google.com/file/d/10DgAmzsRqnpJq-1C-lj6QTwf6dIewiJY/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Historia y Teoría del Diseño Urbano"
+          }
+        ]
       },
       "stageId": "basica"
     },
@@ -346,7 +566,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "basica"
     },
@@ -365,7 +586,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "basica"
     },
@@ -380,9 +602,49 @@ window.PLAN_DATA = {
         "2. Evaluará las posibilidades del cine documental como instrumento de análisis del fenómeno urbano, así como para la difusión de propuestas y proyectos urbanísticos.70"
       ],
       "projects": {
-        "alto": [],
-        "medio": [],
-        "bajo": []
+        "alto": [
+          {
+            "title": "Trabajo Final_Expresión Gráfica III - Sobresaliente.pdf",
+            "url": "https://drive.google.com/file/d/1rFZuFoF3t55Isr6O1EOUZHHosjFy9Aa6/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Expresión Gráfica III / Trabajo Final (Satisfactorio)"
+          },
+          {
+            "title": "Trabajo Final_Expresión Gráfica III - Sobresaliente.pdf",
+            "url": "https://drive.google.com/file/d/1y1DBdH9bFL8Ls-IbqHLvVJC43isUrYM4/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Expresión Gráfica III / Trabajo Final (Sobresaliente)"
+          },
+          {
+            "title": "Trabajo Final_Expresión Gráfica III_ Ficha Técnica - Sobresaliente.pdf",
+            "url": "https://drive.google.com/file/d/1JMSiXfSJwc5EU1IXS5voemL0v3bDd7qV/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Expresión Gráfica III / Trabajo Final (Sobresaliente)"
+          }
+        ],
+        "medio": [
+          {
+            "title": "Trabajo Final_Expresión Gráfica III_ Ficha Técnica - Satisfactorio.docx.pdf",
+            "url": "https://drive.google.com/file/d/1-Nkl8M-8P0N9-uOy_3rZgZY-60sXWGol/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Expresión Gráfica III / Trabajo Final (Satisfactorio)"
+          }
+        ],
+        "bajo": [
+          {
+            "title": "Trabajo Final_Expresión Gráfica III_ Ficha Técnica - Áreas de Oportunidad.pdf",
+            "url": "https://drive.google.com/file/d/1wY7XPrjsH7Vg5KskGQnSR68MFIkvjThF/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Expresión Gráfica III / Trabajo Final (Áreas de Oportunidad)"
+          },
+          {
+            "title": "Trabajo Final_Expresión Gráfica III - Áreas de Oportunidad.pdf",
+            "url": "https://drive.google.com/file/d/1sydvERO7ex3vWPpWCQRuGLgAo_ZCehAn/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Expresión Gráfica III / Trabajo Final (Áreas de Oportunidad)"
+          }
+        ],
+        "otros": []
       },
       "stageId": "basica"
     },
@@ -399,9 +661,31 @@ window.PLAN_DATA = {
         "4. Identificará valores que posibiliten o den sentido a lugares y recorridos que fomenten la cohesión social y la calidad sensorial del espacio público en su propuesta de diseño."
       ],
       "projects": {
-        "alto": [],
-        "medio": [],
-        "bajo": []
+        "alto": [
+          {
+            "title": "Sobresaliente - Proyecto Final Taller de Urbanismo I (Morelos).pdf",
+            "url": "https://drive.google.com/file/d/1-tn-CpS8fos5ODljtbL9-Ki9Dh7smt7W/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Taller de Urbanismo I / Trabajo final - Sobresaliente"
+          }
+        ],
+        "medio": [
+          {
+            "title": "Satisfactorio - Proyecto Final Taller de Urbanismo I (Tlalpan).pdf",
+            "url": "https://drive.google.com/file/d/1TXRdHh-nKb0M9qb6SnqqlE6t6D6zF_by/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Taller de Urbanismo I / Trabajo final - Satisfactorio"
+          }
+        ],
+        "bajo": [
+          {
+            "title": "Áreas de Oportunidad - Proyecto Final Taller de Urbanismo I (Tlalpan).pdf",
+            "url": "https://drive.google.com/file/d/1iM-WK3XTCOb1zJnJv-KYyEjOjUqT4YgJ/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Taller de Urbanismo I / Trabajo final - Áreas de Oportunidad"
+          }
+        ],
+        "otros": []
       },
       "stageId": "basica"
     },
@@ -419,7 +703,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "basica"
     },
@@ -436,7 +721,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "basica"
     },
@@ -456,7 +742,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "basica"
     },
@@ -475,7 +762,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "basica"
     },
@@ -521,7 +809,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "basica"
     },
@@ -562,7 +851,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "basica"
     },
@@ -627,7 +917,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "basica"
     },
@@ -646,7 +937,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "basica"
     },
@@ -664,9 +956,17 @@ window.PLAN_DATA = {
         "5. Identificará los actores involucrados para legitimizar propuestas de proyectos."
       ],
       "projects": {
-        "alto": [],
+        "alto": [
+          {
+            "title": "Sobresaliente- Taller de Urbanismo II.pdf",
+            "url": "https://drive.google.com/file/d/1T5a5AuqxsvB7xkwkPe09uhmxAIRRt6DN/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Taller de Urbanismo II"
+          }
+        ],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "basica"
     },
@@ -685,7 +985,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "basica"
     },
@@ -702,9 +1003,49 @@ window.PLAN_DATA = {
         "4. Reconocerá los procesos de transformación del suelo como consecuencia de los cambios en la expectativa de beneficios.117"
       ],
       "projects": {
-        "alto": [],
-        "medio": [],
-        "bajo": []
+        "alto": [
+          {
+            "title": "Trabajo Final_Estructura Urbana II_FichaTécnica - Sobresaliente.pdf",
+            "url": "https://drive.google.com/file/d/1hhRWgOJ_ZV3eiNy63abqYNsi_Ymqa4UO/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Estructura Urbana II / Trabajo Final (Sobresaliente)"
+          },
+          {
+            "title": "Trabajo Final (Sobresaliente).pdf",
+            "url": "https://drive.google.com/file/d/1c7pgYEzGiH07EkakeKb9QhIwRYR2aZ4i/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Estructura Urbana II / Trabajo Final (Sobresaliente)"
+          }
+        ],
+        "medio": [
+          {
+            "title": "Trabajo Final_Estructura Urbana II_FichaTécnica - Satisfactorio.pdf",
+            "url": "https://drive.google.com/file/d/1Dj7A7VQxCvyjjVHXMEoI2cj5rrsMh58K/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Estructura Urbana II / Trabajo Final (Satisfactorio)"
+          },
+          {
+            "title": "Trabajo Final (Satisfactorio).pdf",
+            "url": "https://drive.google.com/file/d/1HPIZQTtPTsUej0o4MtXdp7IhHPMimCOv/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Estructura Urbana II / Trabajo Final (Satisfactorio)"
+          }
+        ],
+        "bajo": [
+          {
+            "title": "Trabajo Final_Estructura Urbana II_FichaTécnica_Áreas de oportunidad.pdf",
+            "url": "https://drive.google.com/file/d/1Ur3DcqDjdkaDYg-jrpB0aqpLqWoEwWQq/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Estructura Urbana II / Trabajo Final (Áreas de Oportunidad)"
+          },
+          {
+            "title": "Trabajo Final (Áreas de Oportunidad).pdf",
+            "url": "https://drive.google.com/file/d/1iNZ5ue7U1UcdiScQBF6k4VqWgQQvXLDd/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Estructura Urbana II / Trabajo Final (Áreas de Oportunidad)"
+          }
+        ],
+        "otros": []
       },
       "stageId": "basica"
     },
@@ -723,7 +1064,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "basica"
     },
@@ -741,9 +1083,31 @@ window.PLAN_DATA = {
         "5. Aplicará los conceptos de Arc Globe en el análisis de una localidad125"
       ],
       "projects": {
-        "alto": [],
-        "medio": [],
-        "bajo": []
+        "alto": [
+          {
+            "title": "BUENO Práctica final.pdf",
+            "url": "https://drive.google.com/file/d/1N8heejTP5qyL-zfTRsc6H7uqFsMKE9KK/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Sistema de información geográfica II"
+          }
+        ],
+        "medio": [
+          {
+            "title": "REGULAR Práctica final.pdf",
+            "url": "https://drive.google.com/file/d/1vzcHvBmt_dDvPQyxSDcdcsiIoLOC5jNt/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Sistema de información geográfica II"
+          }
+        ],
+        "bajo": [
+          {
+            "title": "MALO Práctica final.pdf",
+            "url": "https://drive.google.com/file/d/1n_2ZGTWctzaqXhccsdMQy4ml40v_xOYC/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Sistema de información geográfica II"
+          }
+        ],
+        "otros": []
       },
       "stageId": "basica"
     },
@@ -785,7 +1149,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -817,9 +1182,23 @@ window.PLAN_DATA = {
         "3. La organización comunitaria Estrategias didácticas Evaluación del aprendizaje Exposición Exámenes parciales Trabajo en equipo Examen final Lecturas Trabajos y tareas Trabajo de investigación Presentación de tema Prácticas (taller o laboratorio) Participación en clase Prácticas de campo Asistencia Aprendizaje por proyectos Rúbricas Aprendizaje basado en problemas Portafolios Casos de enseñanza Listas de cotejo Otras (especificar) Otras (especificar) Perfil profesiográfico Título o grado Urbanista, Arquitecto, Planificador, Sociológo, o posgrado en Urbanismo o en áreas de ciencias sociales y humanidades Experiencia docente Curso de didáctica del urbanismo o equivalente. Otra característica134 Bibliografía básica Azuela, A. y F. Tomas. (1997). El acceso de los pobres al suelo urbano, UNAM, IIS, México. Bazant, J. (2001). Periferias urbanas: Expansión urbana incontrolada de bajos ingresos y su impacto en el medio ambiente. México: Trillas. Bolivar, T. (2011). Desde adentro, viviendo la construcción de las ciudades con su gente. Quito: Olacchi. Bolivar, T., et.al. (coords.). (2014). Casas de infinitas privaciones ¿Germen de ciudades para todos? Quito: Abya-Yala. Bolivar, T., et.al. (coords.). (2015). Ciudades en construcción permanente. Quito: Abya-Yala. Davis, M. (2006). Planeta de ciudades miseria. Madrid: FOCA. Duhau, E. y A. Giglia. (2008). Las reglas del desorden. Habitar la metrópoli. México: Siglo XXI, UAM-A. Eibenschutz, R. y P. Benlliure. (coords.). (2009). Mercado formal e informal del suelo. Análisis de 8 ciudades. México: UAM-X, Porrúa. Iracheta, A. y S. Medina. (2008). Irregularidad y suelo urbano. Memorias del II Congreso Nacional de Suelo Urbano. México Sedesol, ONU-Habitat. Jaramillo, S. (2012). Urbanización informal, diagnósticos y políticas: una revisión al debate latinoamericano para pensar líneas de acción actuales latinoamericana: nuevas perspectivas. en https://www.researchgate.net López R., R. et.al., (2014). La complejidad y la participación en la producción de la arquitectura y la ciudad. México: UNAM. Moctezuma, P. (2012). La Chispa. Orígenes del Movimiento Urbano Popular en el Valle de México. México: Delegación Iztapalapa y Para Leer en Libertad AC. Ortiz, E y Zarate, M. (comp.). (2002). Vivitos y coleando. 40 años trabajando por el hábitat popular en América Latina. México: Habitat International Coalition América Latina, UAM. Padilla, S. (comp). (2009). Urbanismo informal. México: UAM-A. Quiroz, H. (comp.). (2014). Aproximaciones a la historia del urbanismo popular. Una mirada desde México. México: UNAM. Romero, J. L. (2009). “Metrópolis y rancheríos 1930-1970” en La ciudad occidental. Culturas urbanas en Europa y América. México: Siglo XXI. Sánchez M., M. C. (2005). Rezagos de la modernidad. Memorias de una ciudad presente. México: UAM. Schteingart, M. (1989). Los productores del espacio habitable. Estado empresa y sociedad en la ciudad de México. México: Colmex. Bibliografía complementaria Adler, L. (1975). Como sobreviven los marginados. México: Siglo XXI. Alegría, T. y G. Ordoñez. (2005). Legalizando la ciudad. Asentamientos informales y procesos de regularización en Tijuana. México: COLEF. Alonso, J. (coord.). (1986). Los movimientos sociales en el valle de México. México: Ciesas.135 Bazzaco, E. y S. Sepulveda. (2010). Barrio trabajando. México: AECID. Cervantes V., Margarita et. Al. (1995). De la utopía a la acción, Seis experiencias de promoción popular. México: Universidad Iberoamericana. Cruz Rodríguez, M. S. (1994). Crecimiento urbano y procesos sociales en el Distrito Federal (1920-28). México: UAM-A. Durand, J. (1983). La ciudad invade al ejido. México: Ed. Casa Chata. Eibenschutz, R. y Benlliure, P. (coords.) (2009). Mercado formal e informal del suelo, México: Porrúa, UAM. Hiernaux, D. (1986). Urbanización y autoconstrucción de vivienda en Tijuana. México: Centro de Ecodesarrollo. López Rangel Rafael. (1987) Urbanización y vivienda en Guadalajara. México, Centro de Ecodesarrollo, México. Miessen, M. y Shuman, B. (2009). ¿Alguien dijo participar? Un atlas de prácticas espaciales. Barcelona: DPR Barcelona. Montaño, J. (1976). Los pobres de la ciudad en los asentamientos espontáneos. México: Siglo XX. Olsson, J. (pres.). (2011). El camino posible. Producción social del hábitat en América Latina. Montevideo: Trilce, Centro Cooperativo Sueco. Ortiz, E. y Zárate, M. L.. (comp.). (2005). De la marginación a la ciudadanía: 38 casos de producción y gestión social del hábitat. Mexico: Habitat Internacional Coallition. Perló, M. (1981). Estado, vivienda y estructura urbana en el cardenismo. México: IIS-UNAM. Schteingart, M. (1989). Los productores del espacio habitable. México: Colmex. Ruiperez, R. (2006). Quién teme a los pobladores? Vigencia y actualización del Housing by people de John Turner, Universidad Nacional de Colombia, Bogotá. Turner, J. (1977). Todo el poder para los usuarios (Housing by people). Madrid: Blume.136 UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO FACULTAD DE ARQUITECTURA PLAN DE ESTUDIOS DE LA LICENCIATURA DE URBANISMO"
       ],
       "projects": {
-        "alto": [],
+        "alto": [
+          {
+            "title": "Trabajo Sobresaliente_Historia y Teoría del Urbanismo Popular.pdf",
+            "url": "https://drive.google.com/file/d/1XSIoR6EUGeo9hEMCqZYFyDbzyAPLc1yO/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Historia y Teoría del Urbanismo Popular / Trabajo Sobresaliente_Historia y Teoría del Urbanismo Popular"
+          },
+          {
+            "title": "Ficha Técnica_Trabajo Sobresaliente.pdf",
+            "url": "https://drive.google.com/file/d/11YQ0m6uEZZDw-S9u7sB4awsrL-L3AkRf/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Historia y Teoría del Urbanismo Popular / Trabajo Sobresaliente_Historia y Teoría del Urbanismo Popular"
+          }
+        ],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -836,7 +1215,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -856,7 +1236,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -873,9 +1254,31 @@ window.PLAN_DATA = {
         "4. Elaborará proyectos de planeación y dotación de servicios e infraestructura que resuelvan los requerimientos actuales y futuros.144"
       ],
       "projects": {
-        "alto": [],
-        "medio": [],
-        "bajo": []
+        "alto": [
+          {
+            "title": "Trabajo Final_Taller de Urbanismo III - Sobresaliente.pdf",
+            "url": "https://drive.google.com/file/d/15croJ0HISy1Kznz8BKCu05Zx5SoKnmG3/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Taller de Urbanismo III / Trabajo Final (Sobresaliente)"
+          }
+        ],
+        "medio": [
+          {
+            "title": "Trabajo Final_Taller de Urbanismo III - Satisfactorio.pdf",
+            "url": "https://drive.google.com/file/d/1pzGjSKilD1Zd-4Jn9YQ3icN7ykijpShh/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Taller de Urbanismo III / Trabajo Final (Satisfactorio)"
+          }
+        ],
+        "bajo": [
+          {
+            "title": "Trabajo Final_Taller de Urbanismo III - Áreas de Oportunidad.pdf",
+            "url": "https://drive.google.com/file/d/1P1TIu75hMVFVXxhhkyELoXCTfu1ytLXU/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Taller de Urbanismo III / Trabajo Final (Áreas de Oportunidad)"
+          }
+        ],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -897,7 +1300,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -914,7 +1318,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -935,7 +1340,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -976,7 +1382,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -1031,7 +1438,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -1092,9 +1500,49 @@ window.PLAN_DATA = {
         "8. FALU, ANA y Marengo, C. Las políticas urbanas: desafíos y contradicciones en: El rostro urbano de América Latina. O rostro urbano da América Latina En: Buenos Aires, CLACSO, Consejo Latinoamericano de Ciencias Sociales Editorial/Editor171 UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO FACULTAD DE ARQUITECTURA PLAN DE ESTUDIOS DE URBANISMO LICENCIATURA DE URBANISMO"
       ],
       "projects": {
-        "alto": [],
-        "medio": [],
-        "bajo": []
+        "alto": [
+          {
+            "title": "Políticas Urbanas_Trabajo Final_Sobresaliente.pdf",
+            "url": "https://drive.google.com/file/d/17HWnmtdX_dL0JLSnWxp2O5cKlslEqQme/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Políticas Urbanas / Trabajo Final (Sobresaliente)"
+          },
+          {
+            "title": "FICHA TÉCNICA PARA LOS TRABAJOS ACADÉMICOS (SOBRESALIENTE).pdf",
+            "url": "https://drive.google.com/file/d/1Vq1vSZnJdtvMa7mBU1fqjGUFtqeequkx/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Políticas Urbanas / Trabajo Final (Sobresaliente)"
+          }
+        ],
+        "medio": [
+          {
+            "title": "Tabajo Final_ Políticas Urbanas_Satisfactorio.pdf",
+            "url": "https://drive.google.com/file/d/1xS421B3z9dT07ZQ7D_e0eDl5uxclEm32/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Políticas Urbanas / Trabajo Final (Satisfactorio)"
+          },
+          {
+            "title": "FICHA TÉCNICA PARA LOS TRABAJOS ACADÉMICOS (SATISFACTORIO).pdf",
+            "url": "https://drive.google.com/file/d/16zO89CipB4U3-dq1IWpNappXwfM1BbSu/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Políticas Urbanas / Trabajo Final (Satisfactorio)"
+          }
+        ],
+        "bajo": [
+          {
+            "title": "Trabajo Final Políticas Urbanas (Áreas de Oportunidad).pdf",
+            "url": "https://drive.google.com/file/d/1uLOjmqsA0W2857_oQboly_Ip3lQzTJDm/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Políticas Urbanas / Trabajo Final (Áreas de Oportunidad)"
+          },
+          {
+            "title": "FICHA TÉCNICA PARA LOS TRABAJOS ACADÉMICOS (ÁREAS DE OPORTUNIDAD).pdf",
+            "url": "https://drive.google.com/file/d/1QfcsS2LiJigFjilZ03TjCeJoDhsfwLh_/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Políticas Urbanas / Trabajo Final (Áreas de Oportunidad)"
+          }
+        ],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -1114,7 +1562,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -1130,9 +1579,49 @@ window.PLAN_DATA = {
         "3. Identificará las condiciones de la prestación de los servicios urbanos, vinculados a la explotación de los recursos naturales, a fin de proponer soluciones sobre la base de la sustentabilidad urbano ambiental.175"
       ],
       "projects": {
-        "alto": [],
-        "medio": [],
-        "bajo": []
+        "alto": [
+          {
+            "title": "Ficha Técnica_Trabajo Final - Sobresaliente SUIV.pdf",
+            "url": "https://drive.google.com/file/d/1OC_Gz0dySl352yOf1dykv21UtNEo4-h4/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Sistemas Urbanos IV / Trabajo Final (Sobresaliente)"
+          },
+          {
+            "title": "Sistemas Urbanos IV Trabajo Final (Sobresaliente).pdf",
+            "url": "https://drive.google.com/file/d/1OFcXITu6Hnjk-M-Rh_AwLaAPX44krGa2/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Sistemas Urbanos IV / Trabajo Final (Sobresaliente)"
+          }
+        ],
+        "medio": [
+          {
+            "title": "Ficha Técnica_Trabajo Final - Satisfactorio SUIV.pdf",
+            "url": "https://drive.google.com/file/d/1uCuxXLgbu9kl5l4Rokaepk0xUa9pGuhu/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Sistemas Urbanos IV / Trabajo Final (Satisfactorio)"
+          },
+          {
+            "title": "Sistemas Urbanos IV Trabajo Final (Satisfactorio).pdf",
+            "url": "https://drive.google.com/file/d/1FDcxW5rUPSWVk4XgKdA_I7dxQNUSJa48/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Sistemas Urbanos IV / Trabajo Final (Satisfactorio)"
+          }
+        ],
+        "bajo": [
+          {
+            "title": "Ficha Técnica_Trabajo Final - Áreas de Oportunidad SUIV.pdf",
+            "url": "https://drive.google.com/file/d/1SNIDGYPrZCiiXrB7XXRevh3jcd28Pt9U/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Sistemas Urbanos IV / Trabajo Final (Áreas de oportunidad)"
+          },
+          {
+            "title": "Sistemas Urbanos IV Trabajo Final (Áreas de Oportunidad).pdf",
+            "url": "https://drive.google.com/file/d/1jlp8VKqajuXDq22Xo-uB5Sbq6oiIbLxU/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Sistemas Urbanos IV / Trabajo Final (Áreas de oportunidad)"
+          }
+        ],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -1187,7 +1676,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -1206,7 +1696,58 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [
+          {
+            "title": "Multiculturalidad y Género_Trabajo Final_Rubrica.pdf",
+            "url": "https://drive.google.com/file/d/1yvZWW6lSqTG1w3FHdjGKhjQQ8nUWA4ma/view?usp=drivesdk",
+            "role": "Trabajo y ficha/rúbrica",
+            "folder": "4.1.3. Multiculturalidad y Género"
+          }
+        ],
+        "otros": [
+          {
+            "title": "Grupo 3.pdf",
+            "url": "https://drive.google.com/file/d/1L3VCeyaVNC1_VuuFxmAX4M-_95FSMtjX/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Multiculturalidad y Género"
+          },
+          {
+            "title": "Grupo 4.pdf",
+            "url": "https://drive.google.com/file/d/1PKUftOxFNjK0pNHYp-wRqpiIcku5Hv48/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Multiculturalidad y Género"
+          },
+          {
+            "title": "Grupo 5.pdf",
+            "url": "https://drive.google.com/file/d/1Y-GAiRPH2imF_Gax1f4vlLnR7v7fhRey/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Multiculturalidad y Género"
+          },
+          {
+            "title": "Grupo 6.pdf",
+            "url": "https://drive.google.com/file/d/1ifZxONWPRLjyQJDaADqe5CIAfvvjH1UA/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Multiculturalidad y Género"
+          },
+          {
+            "title": "Grupo 7.pdf",
+            "url": "https://drive.google.com/file/d/1FDSPnDHP34oYDekDnt0LYmmdHlS3vcMt/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Multiculturalidad y Género"
+          },
+          {
+            "title": "Grupo 2.pdf",
+            "url": "https://drive.google.com/file/d/1B45qYYCYeBzasvjlCAwMgdE24_CVeuBr/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Multiculturalidad y Género"
+          },
+          {
+            "title": "Grupo 1.pdf",
+            "url": "https://drive.google.com/file/d/1siOqengB5Oc-C9JRYqTrjlYqcZp67uwP/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Multiculturalidad y Género"
+          }
+        ]
       },
       "stageId": "formativa"
     },
@@ -1225,7 +1766,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -1259,9 +1801,23 @@ window.PLAN_DATA = {
         "9. Hermosillo. Hall, P. G. (2011). Urban and regional planning. London: Routledge. Healey, P. (2007). Urban complexity and spatial strategies: towards a relational planning for our times. Abingdon: Routledge. Rodríguez, Y. R., S., Ed. (1997). Desarrollo Regional y urbano en México a finales del siglo XX. Tomo I: Teorías y metodologías en ciencias regionales y urbanas. México: Asociación Mexicana de Ciencias para el Desarrollo Regional, A.C. Serrano M., J., Ed. (1999). Desarrollo Regional y urbano en México a finales del siglo XX. Tomo III: La globalización y las regiones en México. México: Asociación Mexicana de Ciencias para el Desarrollo Regional, A.C. Sobrino, J. and S. D. D. Social. (1993). Programa de cien ciudades. México: Instituto Nacional de Administración Pública. Bibliografía complementaria Partor, M., P. Drier, J. Eugene Grigsby III, and Martha López Garza. Regions, that work: how cities and suburbs can grow together, Minneapolis, University of Minnesota Press.191 UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO FACULTAD DE ARQUITECTURA PLAN DE ESTUDIOS DE LA LICENCIATURA DE URBANISMO"
       ],
       "projects": {
-        "alto": [],
+        "alto": [
+          {
+            "title": "BUENO Taller de Urbanismo V (Aeropuertos).pdf",
+            "url": "https://drive.google.com/file/d/199AvCvzE_ikNfAnKwfdG37G0MiTxraKs/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Taller de Urbanismo V"
+          },
+          {
+            "title": "BUENO Taller de Urbanismo V (Caminos Rurales).pdf",
+            "url": "https://drive.google.com/file/d/14o99obR4rjiUaqfX1QpFi4cpmgPOEApb/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Taller de Urbanismo V"
+          }
+        ],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -1277,9 +1833,36 @@ window.PLAN_DATA = {
         "3. Aplicará los conceptos y elementos que intervienen en el desarrollo de una red de transporte público y sus rutas, así mismo que identifique los diferentes tipos de redes que existen y sus características."
       ],
       "projects": {
-        "alto": [],
-        "medio": [],
-        "bajo": []
+        "alto": [
+          {
+            "title": "Sistemas Urbanos V (Transporte)_Trabajo Final - Sobresaliente.pdf",
+            "url": "https://drive.google.com/file/d/1IIFHo4-9xkTMEHFZCeE_MFnv7Jd4cc8L/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Sistemas Urbanos V / Trabajo Final SUV (Sobresaliente)"
+          },
+          {
+            "title": "Sistemas Urbanos V (Transporte)_Ficha Técnica - Sobresaliente.pdf",
+            "url": "https://drive.google.com/file/d/1iTzY_UBoytvNkIHu0zq2HDqdmhAmP_cu/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Sistemas Urbanos V / Trabajo Final SUV (Sobresaliente)"
+          }
+        ],
+        "medio": [
+          {
+            "title": "Sistemas Urbanos V (Transporte)_Trabajo Final - Satisfactorio.pdf",
+            "url": "https://drive.google.com/file/d/1ZGrl2C7CZRakh3dzqdqEkBKWh5j9nVGT/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Sistemas Urbanos V / Trabajo Final SUV (Satisfactorio)"
+          },
+          {
+            "title": "Sistemas Urbanos V (Transporte)_Ficha Técnica - Satisfactorio.pdf",
+            "url": "https://drive.google.com/file/d/1zVe7NDom_RvJ8B3rgAu9b0pbjnbJsSu-/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Sistemas Urbanos V / Trabajo Final SUV (Satisfactorio)"
+          }
+        ],
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -1299,7 +1882,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -1317,7 +1901,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -1336,7 +1921,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -1372,9 +1958,49 @@ window.PLAN_DATA = {
         "1. México: COLMEX. Gutiérrez Ch., J. J. et.al. (2014). Nuevos y viejos procesos socioespaciales en México. Del liberalismo al neoliberalismo. México: UAEM. Mostafavi, M. y G. Doherty. (2014). Urbanismo ecológico. Barcelona: Gustavo Gili. Rosique, J. A. (2014). Megalópolis ingobernables. México: UAM. Yory, C. (2009). Pensamiento urbano contemporáneo. Una aproximación desde el concepto de la topofilia. Bogotá: Pontificia Universidad Javeriana.208 UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO FACULTAD DE ARQUITECTURA PLAN DE ESTUDIOS DE URBANISMO LICENCIATURA DE URBANISMO"
       ],
       "projects": {
-        "alto": [],
-        "medio": [],
-        "bajo": []
+        "alto": [
+          {
+            "title": "Trabajo Final_Sobresaliente.pdf",
+            "url": "https://drive.google.com/file/d/1DYLnc0ttDj8iVWl-lnEB89e24IRLCEUg/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Seminario de Historia y Teoría del Urbanismo Contemporáneo / Trabajo_Sobresaliente"
+          },
+          {
+            "title": "Ficha Técnica_Trabajo Sobresaliente.pdf",
+            "url": "https://drive.google.com/file/d/1pwAcEgsvXJCEPaVerFbG8yRcSWNEq8E3/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Seminario de Historia y Teoría del Urbanismo Contemporáneo / Trabajo_Sobresaliente"
+          }
+        ],
+        "medio": [
+          {
+            "title": "Trabajo Satisfactorio_SHTUC.pdf",
+            "url": "https://drive.google.com/file/d/1knbMwCM8DeOcCmywVD4VmlQXVoPhhmgW/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Seminario de Historia y Teoría del Urbanismo Contemporáneo / Trabajo_Satisfactorio"
+          },
+          {
+            "title": "Ficha Técnica_Trabajo Satisfactorio.pdf",
+            "url": "https://drive.google.com/file/d/1BYQIJThQ-uq3UFQ4FuVyuVq8Y8-V1Y4f/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Seminario de Historia y Teoría del Urbanismo Contemporáneo / Trabajo_Satisfactorio"
+          }
+        ],
+        "bajo": [
+          {
+            "title": "Trabajo_Áreas de oportunidad.pdf",
+            "url": "https://drive.google.com/file/d/1Eej2kmCqVc61aqa3QBs0KUUcVTC5yhh4/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Seminario de Historia y Teoría del Urbanismo Contemporáneo / Trabajo_Áreas de oportunidad"
+          },
+          {
+            "title": "Ficha Técnica_Trabajo Áreas de oportunidad.pdf",
+            "url": "https://drive.google.com/file/d/1QnBr4m1HgZZ5akcrp1ds5Ak1HiWcQdn7/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Seminario de Historia y Teoría del Urbanismo Contemporáneo / Trabajo_Áreas de oportunidad"
+          }
+        ],
+        "otros": []
       },
       "stageId": "integracion"
     },
@@ -1392,7 +2018,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "integracion"
     },
@@ -1409,9 +2036,29 @@ window.PLAN_DATA = {
         "4. Elaborará una idea económica del proyecto213"
       ],
       "projects": {
-        "alto": [],
+        "alto": [
+          {
+            "title": "Sobresaliente - Taller de Urbanismo VI (Master Plan Conservación y Regeneración).pdf",
+            "url": "https://drive.google.com/file/d/1jEPCADkjvuyXxyUvnofpsDJqxjiPZ_uk/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Taller de Urbanismo VI"
+          },
+          {
+            "title": "Sobresaliente - Taller de Urbanismo VI (Master Plan Espacios Públicos).pdf",
+            "url": "https://drive.google.com/file/d/1IslhhncOXjZCSE_IAkJ-oifxgtYv6VuA/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Taller de Urbanismo VI"
+          },
+          {
+            "title": "Sobresaliente - Taller de Urbanismo VI (Cetram Observatorio).pdf",
+            "url": "https://drive.google.com/file/d/1NjAgkKPaog20PnHjC0kab7I84z45uE3B/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Taller de Urbanismo VI"
+          }
+        ],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "integracion"
     },
@@ -1423,9 +2070,49 @@ window.PLAN_DATA = {
       "objectiveGeneral": "Seleccionará una opción de titulación de acuerdo a sus intereses para trabajar en ella.",
       "objectiveSpecific": [],
       "projects": {
-        "alto": [],
-        "medio": [],
-        "bajo": []
+        "alto": [
+          {
+            "title": "Trabajo Final - Sobresaliente.pdf",
+            "url": "https://drive.google.com/file/d/14dIbp8lUJ7i0ILkDv1FLl51pPiDGu1Aq/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Titulación I / Trabajo Final (Sobresaliente)"
+          },
+          {
+            "title": "Trabajo final_FichaTécnica - Sobresaliente.pdf",
+            "url": "https://drive.google.com/file/d/1wLAEnP5De8sYc3GWVJ1rvy2SKZ0kOfLQ/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Titulación I / Trabajo Final (Sobresaliente)"
+          }
+        ],
+        "medio": [
+          {
+            "title": "Trabajo Final_FichaTécnica - Satisfactorio.pdf",
+            "url": "https://drive.google.com/file/d/1IImxqrqngqYPLw-yY_zxfw0wrjcmqrMM/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Titulación I / Trabajo Final (Satisfactorio)"
+          },
+          {
+            "title": "Trabajo Final - Satisfactorio.pdf",
+            "url": "https://drive.google.com/file/d/1Z78W-FBE0j7Eca4JuomCNT513L9pY6cy/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Titulación I / Trabajo Final (Satisfactorio)"
+          }
+        ],
+        "bajo": [
+          {
+            "title": "Trabajo Final_FichaTécnica - Áreas de Oportunidad.pdf",
+            "url": "https://drive.google.com/file/d/1wQVs0mwlDFjuPnZO1LVMLgDp-fD1pill/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Titulación I / Trabajo Final (Áreas de Oportunidad)"
+          },
+          {
+            "title": "Trabajo final - Áreas de Oportunidad.pdf",
+            "url": "https://drive.google.com/file/d/1r_fh3lFeaF4CSxxheis1GWUkHWpDLNvw/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Titulación I / Trabajo Final (Áreas de Oportunidad)"
+          }
+        ],
+        "otros": []
       },
       "stageId": "integracion"
     },
@@ -1448,9 +2135,36 @@ window.PLAN_DATA = {
         "2. Importancia del aparato crítico Estrategias didácticas Evaluación del aprendizaje Exposición Exámenes parciales Trabajo en equipo Examen final Lecturas Trabajos y tareas Trabajo de investigación Presentación de tema Prácticas (taller o laboratorio) Participación en clase Prácticas de campo Asistencia Aprendizaje por proyectos Rúbricas Aprendizaje basado en problemas Portafolios Casos de enseñanza Listas de cotejo Otras (especificar) Otras (especificar) Perfil profesiográfico Título o grado Urbanista, Planificador o posgrado en Urbanismo con formación en Ciencias Sociales o Arquitectura o experiencia profesional equivalente Experiencia docente Curso de didáctica del urbanismo o equivalente Otra característica Bibliografía básica Se definirá de acuerdo a la temática a desarrollar. Bibliografía complementaria Se definirá de acuerdo a la temática a desarrollar.221 OPTATIVAS222 CIENCIAS SOCIALES Y HUMANIDADES223 UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO FACULTAD DE ARQUITECTURA PLAN DE ESTUDIOS DE LA LICENCIATURA DE URBANISMO"
       ],
       "projects": {
-        "alto": [],
-        "medio": [],
-        "bajo": []
+        "alto": [
+          {
+            "title": "Trabajo Final - Sobresaliente.pdf",
+            "url": "https://drive.google.com/file/d/1FnAxK-UAPluUNIZqeLtAB6L8TIgIQ6M1/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Titulación II / Trabajo Final (Sobresaliente)"
+          },
+          {
+            "title": "Trabajo Final_FichaTécnica - Sobresaliente.pdf",
+            "url": "https://drive.google.com/file/d/1_n8wIDBfAeGLDjqgWoB9ndg8gHu5KmC2/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Titulación II / Trabajo Final (Sobresaliente)"
+          }
+        ],
+        "medio": [
+          {
+            "title": "Trabajo Final_FichaTécnica - Satisfactorio.pdf",
+            "url": "https://drive.google.com/file/d/1h3hKaTFYVvjEC9NXL844fLYmlr-Sm5gS/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Titulación II / Trabajo Final (Satisfactorio)"
+          },
+          {
+            "title": "Trabajo Final - Satisfactorio.pdf",
+            "url": "https://drive.google.com/file/d/1qGNUKI41lRL9zj4nJ0BYQczhAm0ZLWkl/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Titulación II / Trabajo Final (Satisfactorio)"
+          }
+        ],
+        "bajo": [],
+        "otros": []
       },
       "stageId": "integracion"
     },
@@ -1494,7 +2208,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -1557,7 +2272,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -1603,9 +2319,36 @@ window.PLAN_DATA = {
         "2.). Las mil y un historia del Pedregal de Santo Domingo, México: GDF, Conaculta. Gruzinsky S. (2004). La ciudad de México. Una historia, México: FCE. Mijares, Carlos (1997) San Ángel. México: Clío.233 Morris, A.E.J. (1984) Historia de la forma urbana. Desde sus orígenes hasta la Revolución industrial. Barcelona: Gustavo Gili. Pensado, P. y Correa, L. (1996) Mixcoac. Un barrio en la memoria. México: Instituto Mora. Porras, J. (2001) Condesa Hipódromo. México: Clío. Tavares, Edgar (1995) Colonia Roma, Clío, México, Tello Peón, B. (1998) Santa María la Ribera. México: Clío Teran, F. (dir.) (1997) La ciudad hispanoamericana. El sueño de un orden, Madrid: CEHOPU. Terrones López, M. E. (coord.) (2004). A la orilla del agua. Historia de Xochimilco en el siglo XX. México: GDF, Instituto Mora, Delegación Xochimilco.234 UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO FACULTAD DE ARQUITECTURA PLAN DE ESTUDIOS DE LA LICENCIATURA DE URBANISMO"
       ],
       "projects": {
-        "alto": [],
-        "medio": [],
-        "bajo": []
+        "alto": [
+          {
+            "title": "Trabajo Final Sobresaliente_Historia de la Ciudad de México.pdf",
+            "url": "https://drive.google.com/file/d/1oiIORS4faVLdxUeVK9zk_Bkh7xSqRpOk/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Historia de la Ciudad de México / Trabajo_Sobresaliente"
+          },
+          {
+            "title": "Ficha Técnica Sobresaliente_Historia de la Ciudad de México.pdf",
+            "url": "https://drive.google.com/file/d/1I9DQxVGW9rDEPXQzSy1LizLUoom5X6YS/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Historia de la Ciudad de México / Trabajo_Sobresaliente"
+          }
+        ],
+        "medio": [
+          {
+            "title": "Trabajo Satisfactorio_Historia de la Ciudad de México.pdf",
+            "url": "https://drive.google.com/file/d/1lWQihUViyASwN0MAMcT9TFlU7jAH3mMg/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Historia de la Ciudad de México / Trabajo_Satisfactorio"
+          },
+          {
+            "title": "Ficha Técnica_Trabajo Satisfactorio.pdf",
+            "url": "https://drive.google.com/file/d/1kbypuoGQtwM-u8YqEafzi7cKqoP4euFJ/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Historia de la Ciudad de México / Trabajo_Satisfactorio"
+          }
+        ],
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -1623,7 +2366,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -1670,7 +2414,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -1690,7 +2435,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -1730,7 +2476,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -1746,9 +2493,37 @@ window.PLAN_DATA = {
         "3. Explicará las características de la forma urbana como un producto de relación de elementos y procesos involucrados en la construcción y reconstrucción de las ciudades."
       ],
       "projects": {
-        "alto": [],
-        "medio": [],
-        "bajo": []
+        "alto": [
+          {
+            "title": "Trabajo Final_Morfología Urbana - Sobresaliente(1).pdf",
+            "url": "https://drive.google.com/file/d/1UDuGZMzL9Ah0erML6Qd_RHBZHBKcIYyx/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Morfología Urbana"
+          },
+          {
+            "title": "Trabajo Final_Morfología Urbana - Sobresaliente.pdf",
+            "url": "https://drive.google.com/file/d/1ejiln5IZQy5FhUphtNZnSChupnwO989v/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Morfología Urbana"
+          }
+        ],
+        "medio": [
+          {
+            "title": "Trabajo Final_Morfología Urbana - Satisfactorio_.pdf",
+            "url": "https://drive.google.com/file/d/1t0XskpG_D1F2i5BdcL187Rodkq8jI5Fo/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Morfología Urbana"
+          }
+        ],
+        "bajo": [
+          {
+            "title": "Trabajo Final_Morfología Urbana - Áreas de Oportunidad.pdf",
+            "url": "https://drive.google.com/file/d/145OWbeW8g0HMMIV-zUCw00jvRSjzSKM2/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Morfología Urbana"
+          }
+        ],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -1765,7 +2540,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -1784,7 +2560,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -1802,7 +2579,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -1822,7 +2600,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -1841,7 +2620,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -1857,9 +2637,23 @@ window.PLAN_DATA = {
         "3. Evaluará la calidad operativa de cada uno de los elementos básicos de la red vial y su influencia en la conformación de la estructura urbana."
       ],
       "projects": {
-        "alto": [],
+        "alto": [
+          {
+            "title": "Ingeniería de Tránsito_Trabajo Final- Sobresaliente.pdf",
+            "url": "https://drive.google.com/file/d/1VtWq-f-WpFGv1D5aku005yX0_cbM0XR6/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Ingeniería de Tránsito / Ingeniería de Tránsito (Sobresaliente)"
+          },
+          {
+            "title": "Ingeniería de Tránsito_Ficha Técnica - Sobresaliente.pdf",
+            "url": "https://drive.google.com/file/d/1doSrt2jgn6mzK0VEu-9tU57r7BWACXdB/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Ingeniería de Tránsito / Ingeniería de Tránsito (Sobresaliente)"
+          }
+        ],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -1876,7 +2670,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -1894,7 +2689,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "integracion"
     },
@@ -1916,7 +2712,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "integracion"
     },
@@ -1965,7 +2762,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "formativa"
     },
@@ -1984,7 +2782,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "integracion"
     },
@@ -2002,7 +2801,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "integracion"
     },
@@ -2021,9 +2821,31 @@ window.PLAN_DATA = {
         "6. Descubrirá, por medio de la diversidad de tipos de investigación y análisis, ejemplos concretos reflejados en libros, artículos y/o proyectos de investigación que aborden temas contemporáneos que se trabajan desde las ciencias sociales."
       ],
       "projects": {
-        "alto": [],
-        "medio": [],
-        "bajo": []
+        "alto": [
+          {
+            "title": "BUENO Trabajo Final 2026-1.pdf",
+            "url": "https://drive.google.com/file/d/1UqZUyTLmELXsHOX-RAalhlnZPB1x5IYA/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Investigación Urbana"
+          }
+        ],
+        "medio": [
+          {
+            "title": "REGULAR Trabajo Final 2026-1.pdf",
+            "url": "https://drive.google.com/file/d/19Kz6MbfDlwdVMZrPR2s2JoV18NZS86QN/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Investigación Urbana"
+          }
+        ],
+        "bajo": [
+          {
+            "title": "MALO Trabajo Final 2026-1.pdf",
+            "url": "https://drive.google.com/file/d/1jh4cHiz7WMiTIIgYcOWFH-DAOfwmz4D1/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Investigación Urbana"
+          }
+        ],
+        "otros": []
       },
       "stageId": "integracion"
     },
@@ -2043,7 +2865,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "integracion"
     },
@@ -2061,7 +2884,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "integracion"
     },
@@ -2079,7 +2903,8 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "integracion"
     },
@@ -2097,9 +2922,196 @@ window.PLAN_DATA = {
       "projects": {
         "alto": [],
         "medio": [],
-        "bajo": []
+        "bajo": [],
+        "otros": []
       },
       "stageId": "integracion"
+    },
+    {
+      "id": "archivo-0",
+      "title": "Econometría Espacial Geoestadística",
+      "stage": "Integración Profesional",
+      "semester": "No identificado",
+      "objectiveGeneral": "Objetivo del programa no localizado en el catálogo transcrito del Plan de Estudios 2018.",
+      "objectiveSpecific": [],
+      "projects": {
+        "alto": [],
+        "medio": [],
+        "bajo": [],
+        "otros": [
+          {
+            "title": "Análisis precio de la vivienda.pdf",
+            "url": "https://drive.google.com/file/d/1JJLVcbHqZn3V2Ivv1Y7qJlYyrBCMMpoB/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Econometría Espacial Geoestadística"
+          }
+        ]
+      },
+      "stageId": "integracion",
+      "archiveOnly": true
+    },
+    {
+      "id": "archivo-1",
+      "title": "Sistemas Estructurales Básicos",
+      "stage": "Etapa Inicial",
+      "semester": "No identificado",
+      "objectiveGeneral": "Objetivo del programa no localizado en el catálogo transcrito del Plan de Estudios 2018.",
+      "objectiveSpecific": [],
+      "projects": {
+        "alto": [
+          {
+            "title": "Trabajo Final_Ficha Técnica - Sobresaliente.pdf",
+            "url": "https://drive.google.com/file/d/1zgUoHaIqDTSddrOJFn4Yp-eEeHSwWY4K/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Sistemas Estructurales Básicos / Trabajo Final (Sobresaliente)"
+          },
+          {
+            "title": "Trabajo Final (Sobresaliente).pdf",
+            "url": "https://drive.google.com/file/d/19icJ90puOwTrrJ2bzU2exM8zTsfnIooq/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Sistemas Estructurales Básicos / Trabajo Final (Sobresaliente)"
+          }
+        ],
+        "medio": [
+          {
+            "title": "Trabajo Final_Ficha Técnica - Satisfactorio.pdf",
+            "url": "https://drive.google.com/file/d/12uHUTSiCFXRpldUqgBxeShAinaCkVrf5/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Sistemas Estructurales Básicos / Trabajo Final (Satisfactorio)"
+          },
+          {
+            "title": "Trabajo Final (Satisfactorio).pdf",
+            "url": "https://drive.google.com/file/d/1vGypO0_omI7ARyeJC2EWvn270HztLOH5/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Sistemas Estructurales Básicos / Trabajo Final (Satisfactorio)"
+          }
+        ],
+        "bajo": [],
+        "otros": []
+      },
+      "stageId": "inicial",
+      "archiveOnly": true
+    },
+    {
+      "id": "archivo-2",
+      "title": "Expresión Gráfica II",
+      "stage": "Etapa Inicial",
+      "semester": "No identificado",
+      "objectiveGeneral": "Objetivo del programa no localizado en el catálogo transcrito del Plan de Estudios 2018.",
+      "objectiveSpecific": [],
+      "projects": {
+        "alto": [
+          {
+            "title": "Trabajo Expresión Gráfica II Sobresaliente - Ficha técnica.pdf",
+            "url": "https://drive.google.com/file/d/1FXzr-98T2kUKXwaUXwcYqbAgoIxB_v08/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Expresión Gráfica II / Trabajos (Sobresaliente)"
+          },
+          {
+            "title": "Trabajo Expresión Gráfica II (Sobresaliente).jpg",
+            "url": "https://drive.google.com/file/d/1Q8egy3hetB6XvIkLAnVsz44rWsF9gRtG/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Expresión Gráfica II / Trabajos (Sobresaliente)"
+          }
+        ],
+        "medio": [
+          {
+            "title": "Trabajo Expresión Gráfica II Satisfactorio - Ficha técnica.pdf",
+            "url": "https://drive.google.com/file/d/1wLZdFxT7Uqgp4glc6FQbzL-7SVsJNmn7/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Expresión Gráfica II / Trabajo (Satisfactorio)"
+          },
+          {
+            "title": "Tabajo Expresión Gráfica II (Satisfactorio).jpg",
+            "url": "https://drive.google.com/file/d/1skTjp9-yGZtmnm_DDDp2roIN-oie7mK2/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Expresión Gráfica II / Trabajo (Satisfactorio)"
+          }
+        ],
+        "bajo": [
+          {
+            "title": "Trabajo Evaluado con Áreas de oportunidad.pdf",
+            "url": "https://drive.google.com/file/d/13SJ_Sb3YGU-5Dg0im_8xXreAbvD66XTZ/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Expresión Gráfica II / Trabajos (Áreas de Oportunidad)"
+          },
+          {
+            "title": "Ficha Técnica_Trabajo con Áreas de oportunidad.pdf",
+            "url": "https://drive.google.com/file/d/1duYjCAkNeiDqLJrvwcAL8cQwrthOgFc5/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Expresión Gráfica II / Trabajos (Áreas de Oportunidad)"
+          }
+        ],
+        "otros": []
+      },
+      "stageId": "inicial",
+      "archiveOnly": true
+    },
+    {
+      "id": "archivo-3",
+      "title": "Taller de Urbanismo IV",
+      "stage": "Etapa Formativa",
+      "semester": "No identificado",
+      "objectiveGeneral": "Objetivo del programa no localizado en el catálogo transcrito del Plan de Estudios 2018.",
+      "objectiveSpecific": [],
+      "projects": {
+        "alto": [
+          {
+            "title": "SOBRESALIENTE Taller de Urbanismo IV (Acapulco).pdf",
+            "url": "https://drive.google.com/file/d/18yAc0zuz68RAuBIH7l_F2rDzpqWrWg9Z/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Taller de Urbanismo IV / Trabajo Final - Sobresaliente"
+          }
+        ],
+        "medio": [
+          {
+            "title": "Satisfactorio - Taller de Urbanismo IV (Tijuana).pdf",
+            "url": "https://drive.google.com/file/d/1EHvryFw1BwnvfZw6jDIhPITNy9xrWk59/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Taller de Urbanismo IV / Trabajo Final - Satisfactorio"
+          }
+        ],
+        "bajo": [
+          {
+            "title": "ÁREAS DE OPORTUNIDAD Taller de Urbanismo IV (Coyoacán).pdf",
+            "url": "https://drive.google.com/file/d/1cVdZJHeu9IasoZe1hpHZIHh2Cl_iYZf2/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Taller de Urbanismo IV / Trabajo Final - Áreas de Oportunidad"
+          }
+        ],
+        "otros": []
+      },
+      "stageId": "formativa",
+      "archiveOnly": true
+    },
+    {
+      "id": "archivo-4",
+      "title": "Niñeces y Ciudad",
+      "stage": "Integración Profesional",
+      "semester": "No identificado",
+      "objectiveGeneral": "Objetivo del programa no localizado en el catálogo transcrito del Plan de Estudios 2018.",
+      "objectiveSpecific": [],
+      "projects": {
+        "alto": [
+          {
+            "title": "Trabajo final Niñeces y Ciudad_Sobresaliente.pdf",
+            "url": "https://drive.google.com/file/d/1YvjxuhbBfp2Xfo2uIaZwT96yutHk6mCX/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Niñeces y Ciudad / Trabajo_Sobresaliente"
+          },
+          {
+            "title": "Ficha Técnica _Trabajo Sobresaliente.pdf",
+            "url": "https://drive.google.com/file/d/197NooBqjqMSUcYdf601Iv8gZljdYHwxe/view?usp=drivesdk",
+            "role": "Ficha de evaluación/rúbrica",
+            "folder": "4.1.3. Niñeces y Ciudad / Trabajo_Sobresaliente"
+          }
+        ],
+        "medio": [],
+        "bajo": [],
+        "otros": []
+      },
+      "stageId": "integracion",
+      "archiveOnly": true
     }
   ],
   "sources": [
