@@ -2690,7 +2690,14 @@ window.PLAN_DATA = {
         "alto": [],
         "medio": [],
         "bajo": [],
-        "otros": []
+        "otros": [
+          {
+            "title": "Análisis precio de la vivienda.pdf",
+            "url": "https://drive.google.com/file/d/1JJLVcbHqZn3V2Ivv1Y7qJlYyrBCMMpoB/view?usp=drivesdk",
+            "role": "Trabajo académico",
+            "folder": "4.1.3. Econometría Espacial Geoestadística"
+          }
+        ]
       },
       "stageId": "integracion"
     },
@@ -2928,32 +2935,9 @@ window.PLAN_DATA = {
       "stageId": "integracion"
     },
     {
-      "id": "archivo-0",
-      "title": "Econometría Espacial Geoestadística",
-      "stage": "Integración Profesional",
-      "semester": "No identificado",
-      "objectiveGeneral": "Objetivo del programa no localizado en el catálogo transcrito del Plan de Estudios 2018.",
-      "objectiveSpecific": [],
-      "projects": {
-        "alto": [],
-        "medio": [],
-        "bajo": [],
-        "otros": [
-          {
-            "title": "Análisis precio de la vivienda.pdf",
-            "url": "https://drive.google.com/file/d/1JJLVcbHqZn3V2Ivv1Y7qJlYyrBCMMpoB/view?usp=drivesdk",
-            "role": "Trabajo académico",
-            "folder": "4.1.3. Econometría Espacial Geoestadística"
-          }
-        ]
-      },
-      "stageId": "integracion",
-      "archiveOnly": true
-    },
-    {
       "id": "archivo-1",
       "title": "Sistemas Estructurales Básicos",
-      "stage": "Etapa Inicial",
+      "stage": "Inicial",
       "semester": "No identificado",
       "objectiveGeneral": "Objetivo del programa no localizado en el catálogo transcrito del Plan de Estudios 2018.",
       "objectiveSpecific": [],
@@ -2995,7 +2979,7 @@ window.PLAN_DATA = {
     {
       "id": "archivo-2",
       "title": "Expresión Gráfica II",
-      "stage": "Etapa Inicial",
+      "stage": "Inicial",
       "semester": "No identificado",
       "objectiveGeneral": "Objetivo del programa no localizado en el catálogo transcrito del Plan de Estudios 2018.",
       "objectiveSpecific": [],
@@ -3050,7 +3034,7 @@ window.PLAN_DATA = {
     {
       "id": "archivo-3",
       "title": "Taller de Urbanismo IV",
-      "stage": "Etapa Formativa",
+      "stage": "Formativa",
       "semester": "No identificado",
       "objectiveGeneral": "Objetivo del programa no localizado en el catálogo transcrito del Plan de Estudios 2018.",
       "objectiveSpecific": [],
@@ -3087,7 +3071,7 @@ window.PLAN_DATA = {
     {
       "id": "archivo-4",
       "title": "Niñeces y Ciudad",
-      "stage": "Integración Profesional",
+      "stage": "Integración profesional",
       "semester": "No identificado",
       "objectiveGeneral": "Objetivo del programa no localizado en el catálogo transcrito del Plan de Estudios 2018.",
       "objectiveSpecific": [],
